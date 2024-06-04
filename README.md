@@ -16,6 +16,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schneiderss&layout=donut&langs_count=8&card_width=32&theme=blue_navy" />
 </a>
 
+
+
 ##
 
 🔨Skills/Improving skills
