@@ -2,7 +2,7 @@
 
 
 
-- 📚 I’m currently learning stdying at Federal University of Jataí, Goiás, Brazil.
+- 📚 I’m currently studying at Federal University of Jataí, Goiás, Brazil.
 
   📚 Atualmente sou estudante na universidade federal de Jataí, Goiás, Brasil.
 
