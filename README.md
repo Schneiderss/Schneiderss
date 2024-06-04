@@ -9,7 +9,7 @@
 
 ##
 
-<a href="https://github.com/Schneiderss/github-readme-stats">
+<a href="https://github.com/Schneiderss?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Schneiderss&theme=blue_navy" />
 </a>
 <a href="https://github.com/Schneiderss/convoychat">
