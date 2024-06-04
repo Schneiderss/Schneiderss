@@ -9,10 +9,10 @@
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Schneiderss/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Schneiderss&theme=blue_navy" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Schneiderss/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schneiderss&layout=donut&langs_count=8&card_width=32&theme=blue_navy" />
 </a>
 
