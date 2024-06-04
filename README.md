@@ -2,9 +2,9 @@
 
 
 
-- 📚 I’m currently studying at Federal University of Jataí, Goiás, Brazil.
+- 📚 I’m currently studying Computer Science at Federal University of Jataí, Goiás, Brazil.
 
-  📚 Atualmente sou estudante na universidade federal de Jataí, Goiás, Brasil.
+  📚 Atualmente sou estudante de Ciência da Computação na universidade federal de Jataí, Goiás, Brasil.
 
 
 ##
