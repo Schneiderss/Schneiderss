@@ -48,3 +48,9 @@
   <a href="https://www.sololearn.com/pt/profile/31858166" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Schneiderss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+### 🤙🏻Repositórios
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
