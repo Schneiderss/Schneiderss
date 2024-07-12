@@ -50,3 +50,5 @@
 </div>
 
 ##
+
+🎈A curiosity about me is that I love math, physics and chemistry too much.🎈
