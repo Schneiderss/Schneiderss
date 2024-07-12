@@ -51,4 +51,4 @@
 
 ##
 
-🎈A curiosity about me is that I love math, physics and chemistry too much.🎈
+🎈A curiosity about me is that I love math, physics and chemistry so much.🎈
