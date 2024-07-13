@@ -51,10 +51,6 @@
 
 ##
 
-<details>
-  <sumary>🎈A curiosity about me🎈</sumary>
-  - I'm really into math, physics and chemistry.
-</details>
 🎈A curiosity about me is that I'm really into math, physics and chemistry.🎈
 
 <div align="center">
