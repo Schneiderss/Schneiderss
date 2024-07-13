@@ -36,6 +36,8 @@
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
+
+
 ##
 
 📩 Contacts/Social
@@ -50,4 +52,8 @@
 ##
 
 🎈A curiosity about me is that I'm really into math, physics and chemistry.🎈
-
+<div align="center">
+  <a>
+    <img height="400" width="400"         src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNmdnpic240OXJ0NGUwcWVvcmpiaHJ0bDduanh2MWVhY3IzZnR3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif">
+  </a>
+</div>
