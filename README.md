@@ -2,7 +2,7 @@
 
 <div align="center">
   <a>
-    <img height="500" width="300" src="https://github.com/Schneiderss/Schneiderss/blob/main/output-onlinegiftools.gif">
+    <img height="200" width="300" src="https://github.com/Schneiderss/Schneiderss/blob/main/output-onlinegiftools%20(1)%20(1).gif">
   </a>
 </div>
 
