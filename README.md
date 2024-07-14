@@ -2,7 +2,7 @@
 
 <div align="center">
   <a>
-    <img height="300" width="300" src="">
+    <img height="200" width="300" src="https://github.com/Schneiderss/Schneiderss/blob/main/Black%20Playful%20Animated%20Welcome%20Channel%20Youtube%20Intro%20Video.gif">
   </a>
 </div>
 
