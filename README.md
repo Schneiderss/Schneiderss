@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=140&size=40&duration=800&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+there,+I'm+Luís👋;+Oi,+eu+sou+o+Luís👋;+Welcome/Bem+vindo!😁😊)](https://git.io/typing-svg)
 
-<div align="center">
-  <a>
-    <img height="200" width="300" src="https://github.com/Schneiderss/Schneiderss/blob/main/Black%20Playful%20Animated%20Welcome%20Channel%20Youtube%20Intro%20Video.gif">
-  </a>
-</div>
+
 
 - 📚I’m currently studying Computer Science at Federal University of Jataí, Goiás, Brazil.
 
