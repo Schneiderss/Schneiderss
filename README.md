@@ -42,6 +42,10 @@
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
 </div>
 
 
